@@ -1,0 +1,8 @@
+setup.py
+helloworldbasic4message.egg-info/PKG-INFO
+helloworldbasic4message.egg-info/SOURCES.txt
+helloworldbasic4message.egg-info/dependency_links.txt
+helloworldbasic4message.egg-info/requires.txt
+helloworldbasic4message.egg-info/top_level.txt
+marianodoc/__init__.py
+marianodoc/previous/__init__.py

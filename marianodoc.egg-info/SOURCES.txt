@@ -1,0 +1,7 @@
+setup.py
+marianodoc/__init__.py
+marianodoc.egg-info/PKG-INFO
+marianodoc.egg-info/SOURCES.txt
+marianodoc.egg-info/dependency_links.txt
+marianodoc.egg-info/requires.txt
+marianodoc.egg-info/top_level.txt

@@ -959,7 +959,7 @@ doc.createWordFile(   filename="sample.docx",
     pass
 
 print("Welcome to marianodoc")
-print("Developed By Mariano Rico, Dec 23, 2022")
+print("Developed By Mariano Rico, since Dec 23, 2022")
 print("For example uses:")
 print()
 print("import marianodoc as md")
@@ -967,6 +967,13 @@ print()
 print("doc=md.new_doc()")
 print("doc.show_example1()")
 print("doc.show_example2()")
+
+feedback= "If you like or dislike this library, please provide feedback at the email below"
+myemail="marianoricoPy@gmail.com"
+
+print("\n\n", feedback, "\n",myemail)
+
+
 
 
 

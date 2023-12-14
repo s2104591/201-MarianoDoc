@@ -12,15 +12,15 @@ By MarianoRico
     pip inatll tqdm
     (have already, next step)
 
-3. Create new PyCharm Project in new folder, eg project4
+3. Create new PyCharm Project in new folder, eg 201-MarianoDoc
 
-4.  a. figure out name of package eg helloworldbasic4message
-    b. create folder called helloworldbasic4message
-    c. inside helloworldbasic4message folder, create __init__.py
+4.  a. figure out name of package eg MarianoDoc
+    b. create folder called marianodoc
+    c. inside marianodoc folder, create __init__.py
        in this file create functions of the package 
        eg def sayhello4():
            return "hello4"
-    d back up tp project4 folder, need to have 2 files:
+    d back up tp 201-MarianoDoc folder, need to have 2 files:
        1. setup.py  -> name must match the folder(package) name , in this case helloworldbasic4message
        2. LICENCE.txt
        ( just copy files found here and change)
@@ -41,7 +41,7 @@ By MarianoRico
            password : 750850_Py&
 
 9 . to upgrade package on computer:
-    pip install --upgrade helloworldbasic4message
+    pip install --upgrade marianodoc
 
 
 10. to update in pip:

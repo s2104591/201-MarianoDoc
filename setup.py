@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-VERSION = '1.0.12'
+VERSION = '1.0.13'
 
 DESCRIPTION = 'Produce WORD and PDF files with great ease, examples provided on import '
 LONG_DESCRIPTION =  'With Mariano Doc, its easy to insert lines of texts into a WORD or PDF file. <br>'\
@@ -19,7 +19,8 @@ LONG_DESCRIPTION =  'With Mariano Doc, its easy to insert lines of texts into a 
                     'doc.show_example1()<br>'\
                     'doc.show_example2()<br><br>'\
                     'If you like this library checkout my other library "MarianoInput" for getting user input<br>'\
-                    '<a href="https://pypi.org/project/marianoinput/">MarianoInput</a>'        
+                    '<a href="https://pypi.org/project/marianoinput/">MarianoInput</a><br><br>'\
+                    'For help or feedback email marianoricoPy@gmail.com'            
 
 
 
@@ -29,7 +30,7 @@ setup(
     name="marianodoc",
     version=VERSION,
     author="Mariano Rico",
-    author_email="<marstab4@gmail.com>",
+    author_email="<marianoricoPy@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,

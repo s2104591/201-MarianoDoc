@@ -39,6 +39,7 @@ By MarianoRico
 
 8. ask for username : marstab4
            password : 750850_Py&
+	   changed:   700750Pi#	
 
 9 . to upgrade package on computer:
     pip install --upgrade marianodoc
